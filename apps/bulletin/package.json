@@ -1,0 +1,15 @@
+{
+  "name": "bulletin",
+  "version": "1.0.0",
+  "description": "Alexa app that reads a Google doc",
+  "main": "index.js",
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.f7a0efdf-80c7-42b8-86df-bd5ec938c676"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "request": "^2.79.0"
+  }
+}

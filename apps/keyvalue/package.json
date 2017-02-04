@@ -1,0 +1,15 @@
+{
+  "name": "keyvalue",
+  "version": "1.0.0",
+  "description": "reads from published google sheet",
+  "main": "index.js",
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.ed42fa9b-f18c-4a29-ba2f-c4e1814a7246"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "google-spreadsheet-to-json": "^0.3.0"
+  }
+}

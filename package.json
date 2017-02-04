@@ -1,0 +1,27 @@
+{
+  "name": "27winter",
+  "version": "1.0.0",
+  "description": "continuing work on alexa app development",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/27winter.git"
+  },
+  "keywords": [
+    "alexa"
+  ],
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/27winter/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/27winter#readme",
+  "dependencies": {
+    "alexa-app-server": "^2.3.1",
+    "google-spreadsheet-to-json": "^0.3.0",
+    "x-ray": "^2.3.1"
+  }
+}

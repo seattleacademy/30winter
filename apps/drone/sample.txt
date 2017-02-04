@@ -1,0 +1,10 @@
+Alexa, launch drone
+flip
+land
+left
+right
+up
+down
+forward
+backward
+rotate
